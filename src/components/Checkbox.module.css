@@ -1,0 +1,25 @@
+.checkbox{
+  width: 25px;
+  height: 25px;
+  border-radius: 3px;
+  background-color: white;
+  transition: 0.5s;
+  cursor: pointer;
+  font-family: impact;
+
+}
+.checkbox:hover{
+  transition: 0.5s;
+  opacity: 0.7;
+}
+
+.box{
+  padding: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.name{
+  padding-left: 5px;
+}
+
